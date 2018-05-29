@@ -28,4 +28,15 @@
 .mtk4 {
   font-family: 'fira code';
 }
+
+// VS CODE Extensions
+
+- Custom CSS and JS Loader
+- DotENV
+- EditorConfig
+- ESLing
+- GitLens
+- Import Cost
+- One Monokai Theme
+- language-postcss
 ```
